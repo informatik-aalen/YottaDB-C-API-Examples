@@ -10,10 +10,6 @@ https://docs.yottadb.com/MultiLangProgGuide/cprogram.html
 Winfried Bantel, Aalen University
 https://bantel.informatik.hs-aalen.de
 
-## Author
-Winfried Bantel, Aalen University
-https://bantel.informatik.hs-aalen.de
-
 ## Copyright / LicenseCopyright (c) 2020 Winfried Bantel
 Published under MIT-License:
 
